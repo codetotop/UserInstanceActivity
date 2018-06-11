@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UseInstanceActivity</string>
+    <string name="open_screen_two">Open Screen Two</string>
+    <string name="text_screen_two">Screen Two</string>
+    <string name="open_screen_three">Open Screen Three</string>
+    <string name="back">Back</string>
+    <string name="text_screen_three">Screen Three</string>
+    <string name="text_screen_one">Screen One</string>
+</resources>
